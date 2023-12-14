@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/network-scanner.git
+git clone https://github.com/nipunnegi2/NetworkScanner01.git
 cd network-scanner
 Install dependencies:
 
